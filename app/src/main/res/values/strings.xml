@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndelaIntermediateTrackChallengeForBegginersGraduate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loginlabel">"login :"</string>
+    <string name="html_urllabel">"html_url :"</string>
+</resources>
